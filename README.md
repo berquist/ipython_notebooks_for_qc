@@ -5,7 +5,7 @@ Python is used quite a bit in quantum chemistry for analysis and even
 resources for discovery. These are Jupyter notebooks that work through
 examples of how Python is used in quantum chemistry.
 
-Only tested using Python 3.4
+Currently, this is only tested using Python 3.4.
 
 If there's something you'd like to see, send me a pull request or add an issue!
 
