@@ -5,6 +5,14 @@ Python is used quite a bit in quantum chemistry for analysis and even
 resources for discovery. These are Jupyter notebooks that work through
 examples of how Python is used in quantum chemistry.
 
+If you're wondering what order these should be worked through, here's
+the current assumed path:
+
+* Reading QM outputs
+* Using cclib
+* Plotting
+* Frequency Calculations
+
 Currently, this is only tested using Python 3.4.
 
 If there's something you'd like to see, send me a pull request or add an issue!
